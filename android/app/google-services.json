@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986970097276",
+    "project_id": "final-kitsfiesta",
+    "storage_bucket": "final-kitsfiesta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986970097276:android:b2bf708fad857f06fc6bf9",
+        "android_client_info": {
+          "package_name": "com.example.final_teoria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApV8gEUVElp-Du3vM5K1QcGdYXA_lFxoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
